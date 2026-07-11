@@ -19,6 +19,7 @@
 
 # production
 /build
+/bday/
 
 # misc
 .DS_Store
