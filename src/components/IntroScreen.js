@@ -79,9 +79,9 @@ export default function IntroScreen({ onComplete }) {
 
     // 3. Floating Image Placeholders
     const nodesData = [
-        { text: "📸 Perjalanan Kita", img: "/Perjalanan kita.jpg" },
-        { text: "📸 Hari Spesial", img: "/Hari spesial.jpg" },
-        { text: "📸 Our Story", img: "/our story.jpg" }
+        { text: "📸 Perjalanan Kita", img: "/bday/Perjalanan kita.jpg" },
+        { text: "📸 Hari Spesial", img: "/bday/Hari spesial.jpg" },
+        { text: "📸 Our Story", img: "/bday/our story.jpg" }
     ];
     
     function createTextSprite(message) {

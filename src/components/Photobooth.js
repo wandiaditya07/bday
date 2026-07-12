@@ -121,8 +121,8 @@ export default function Photobooth({ onClose }) {
     }
   };
 
-  const [vintageImg] = useImage('/Brown and Black Polaroid Vintage Photo Collage.png');
-  const [scrapbookImg] = useImage('/Grey Scrapbook Photo Collage Friends Instagram Story.png');
+  const [vintageImg] = useImage('/bday/Brown and Black Polaroid Vintage Photo Collage.png');
+  const [scrapbookImg] = useImage('/bday/Grey Scrapbook Photo Collage Friends Instagram Story.png');
 
   const renderStyledLayout = () => {
     const config = layoutConfig[layout];

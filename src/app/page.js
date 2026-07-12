@@ -116,7 +116,7 @@ export default function BirthdayApp() {
           <h1 className="title">Selamat Ulang Tahun, Sayang! 🎉</h1>
           <div className="photo-placeholder" style={{ border: 'none', background: 'transparent' }}>
             <img 
-              src="/Selamat ulang tahun.jpg" 
+              src="/bday/Selamat ulang tahun.jpg" 
               alt="Selamat Ulang Tahun" 
               style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '15px' }} 
             />
